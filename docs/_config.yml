@@ -24,7 +24,7 @@
 
 # Serve on GitHub
 url: https://gisma-courses.github.io/
-baseurl: "/course-environments/"
+baseurl: "/course-setup/"
 
 ##### Title ###################################################################
 title: gisma - geoinformation science marburg
